@@ -1,7 +1,7 @@
 WebsocketServer
 ===============
 
-A reference implementation for a WebSocket server and two sample clients. Conforms to all relevant parts of RFC 6455 (http://tools.ietf.org/html/rfc6455) required or a minimal, non-SSl/TLS, implementation.Tested under Firefox 13 and Chrome 20.
+A reference implementation for a WebSocket server and two sample clients. Conforms to all relevant parts of RFC 6455 (http://tools.ietf.org/html/rfc6455) required for a minimal, non-SSl/TLS, implementation. Tested under Firefox 13 and Chrome 20.
 
 Just run the server from the command-line and load the clients from the browser.
 
